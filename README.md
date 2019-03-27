@@ -1,1 +1,1 @@
-# This the first animation challenge.
+# This is the first animation challenge.
